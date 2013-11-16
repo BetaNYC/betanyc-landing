@@ -114,9 +114,9 @@
     .carousel-caption {
       background-color: rgba(0,0,0,0.5);
       position: static;
-      max-width: 650px;
-      padding: 10px 0px 20px 20px;
-      margin-top: 200px;
+      max-width: 780px;
+      padding: 10px 20px 20px 20px;
+      margin-top: 108px;
       -moz-border-radius: 5px;
       border-radius: 5px;
     }
