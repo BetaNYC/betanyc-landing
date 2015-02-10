@@ -67,6 +67,16 @@
       top: 10px;
       position: relative;
     }
+    
+     .betaLogo{
+      background-image: url(images/betanyc_white.png);
+      width: 78px;
+      height: 28px;
+      background-repeat: no-repeat;
+      float: left;
+      top: 10px;
+      position: relative;
+    }
 
     .logoGray{
       background-image: url(images/apple70Gray.png);
